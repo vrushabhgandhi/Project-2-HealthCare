@@ -1,0 +1,26 @@
+[
+  {
+    "patient_id": "P001",
+    "description": "I've had a terrible headache for 3 days. It's the worst headache of my life. I also have a stiff neck and sensitivity to light. I've been taking Tylenol but it's not helping. I'm feeling nauseous too."
+  },
+  {
+    "patient_id": "P002",
+    "description": "My allergies are acting up again. I'm sneezing a lot and my nose is stuffy. My eyes are itchy. I take Claritin regularly but it's not working as well as usual. No fever. Started about a week ago when the weather changed."
+  },
+  {
+    "patient_id": "P003",
+    "description": "I've been having mild chest pain for a few hours. It feels like pressure in my chest when I move around. I'm short of breath. I take aspirin daily for my heart condition. I'm 68 years old. Should I be worried?"
+  },
+  {
+    "patient_id": "P004",
+    "description": "My right ankle is really swollen and painful. I twisted it yesterday while playing basketball. I can barely walk on it. I put ice on it but it's still very painful. I'm allergic to NSAIDs."
+  },
+  {
+    "patient_id": "P005",
+    "description": "I've had diarrhea and stomach cramps for the last 5 days. Also been feeling tired. No fever. Started after I ate food at a restaurant. I currently take metformin for diabetes. No known allergies."
+  },
+  {
+    "patient_id": "P006",
+    "description": "My child has had a high fever of 103F for 2 days along with a sore throat and difficulty swallowing. They also have a rash on their body. They're very uncomfortable and crying a lot. We're worried it might be serious."
+  }
+]
